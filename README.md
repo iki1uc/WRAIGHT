@@ -1,8 +1,7 @@
-🏠 Ort (Home):
-/WRAIGHT/
-
+📁 Dateiname: README.md
+🏠 Ort: /WRAIGHT/
 📄 Inhalt:
-Übersicht
+Gesamtübersicht
 
 Zweck
 
