@@ -1,10 +1,10 @@
-📁 Dateiname: NIRWANA_CORE.md
-🏠 Ort: /WRAIGHT/NIRWANA/
+📁 Dateiname: CONTINIUM_CORE.md
+🏠 Ort: /WRAIGHT/CONTINIUM/
 📄 Inhalt:
-Neutralanalyse
+Stabilisierung
 
-Ghost / Miss / Error‑Erkennung
+Fit / Fin / Rdy‑Erkennung
 
 Risiko‑Matrix
 
-Übergabe an Contínium
+Übergabe an ∞‑Formel
