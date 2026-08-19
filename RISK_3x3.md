@@ -1,21 +1,16 @@
-🏠 Ort (Home):
-/WRAIGHT/RISK/
-
+📁 Dateiname: RISK_3x3.md
+🏠 Ort: /WRAIGHT/RISK/
 📄 Inhalt:
-UUP: U1/U2/U3
+7sense global
 
-KQM: K1/K2/K3
+UUP
 
-∞: ∞1/∞2/∞3
+KQM
 
-Nirwana: N1/N2/N3
+∞
 
-Contínium: C1/C2/C3
+Nirwana
 
-7‑SINN: ghost/help/error/miss/fit/fin/rdy
+Contínium
 
-Farben: Grün/Gelb/Rot
-
-Risiko‑%
-
-Grad‑°
+Farben / % / °
