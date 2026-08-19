@@ -2,44 +2,99 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>WRAIGHT · Finalrunde</title>
+    <title>COACH · Lebens-Ordner · Soccer Edition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <style>
         body {
-            background: #111;
-            color: #eee;
             font-family: Arial, sans-serif;
+            background: #0b0b0b;
+            margin: 0;
+            padding: 0;
+            color: #eaeaea;
+        }
+
+        header {
+            background: #111;
+            padding: 30px 0;
             text-align: center;
-            padding-top: 80px;
+            border-bottom: 3px solid #00ff88;
         }
-        .calm {
-            font-size: 22px;
-            margin-bottom: 40px;
-            opacity: 0.9;
+
+        header h1 {
+            margin: 0;
+            font-size: 34px;
+            color: #00ff88;
+            letter-spacing: 1px;
         }
-        .soccer {
-            font-size: 32px;
-            font-weight: bold;
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #141414;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 0 20px #00ff88;
+        }
+
+        .wraight-output {
             margin-top: 40px;
+            padding: 20px;
+            background: #1e1e1e;
+            border-left: 4px solid #00ff88;
+            border-radius: 8px;
         }
-        .ball {
+
+        .soccer-ball {
             font-size: 80px;
-            margin-top: 20px;
+            text-align: center;
+            margin: 20px 0;
         }
     </style>
 </head>
+
 <body>
 
-    <div class="calm">
-        System finalisiert · Endraum aktiv · Ruhemodus
+<header>
+    <h1>COACH · Lebens-Ordner</h1>
+    <p>Soccer Edition · iki1uc</p>
+</header>
+
+<div class="container">
+
+    <div class="soccer-ball">⚽</div>
+
+    <h2>System‑Status (WRAIGHT)</h2>
+    <div id="wraight" class="wraight-output">
+        Lade WRAIGHT…
     </div>
 
-    <div class="soccer">
-        Soccer Mode · Index
-    </div>
+</div>
 
-    <div class="ball">
-        ⚽
-    </div>
+<footer>
+    © 2026 COACH · iki1uc · Lebens-Ordner System
+</footer>
+
+<script type="module">
+    import { EYE } from "./eye.js";
+
+    const input = {
+        pulse: "neutral",
+        drift: 12,
+        sense: "fit"
+    };
+
+    const result = EYE(input);
+
+    document.getElementById("wraight").innerHTML = `
+        <strong>Aura:</strong> ${result.aura}<br>
+        <strong>Sense:</strong> ${result.sense}<br>
+        <strong>Djinn:</strong> ${result.djinn.sealed ? "versiegelt" : "ruhig"}<br>
+        <strong>Contínium:</strong> ${result.continium}<br>
+        <strong>Intent:</strong> ${result.intent}<br>
+        <strong>WRAIGHT erlaubt:</strong> ${result.wraight}
+    `;
+</script>
 
 </body>
 </html>
