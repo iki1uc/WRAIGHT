@@ -1,25 +1,10 @@
-🏠 Ort (Home):
-/WRAIGHT/MAP/
-
+📁 Dateiname: SYSTEM_MAP.md
+🏠 Ort: /WRAIGHT/MAP/
 📄 Inhalt:
-UUP
+Übersicht aller Module
 
-KQM
-
-∞
-
-Nirwana
-
-Contínium
-
-RNM
-
-MMX
-
-7‑SINN
+Macht‑Ebene
 
 Übergänge
 
-Struktur
-
-Macht‑Ebene
+7sense‑Position
