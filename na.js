@@ -1,10 +1,6 @@
-const INTENT_MAP = {
-    ghost:      "versteckt / ungebunden",
-    error:      "zerstörerisch / chaotisch",
-    miss:       "fragmentiert / suchend",
-    help:       "korrigierend / reparierend",
-    bioldung:   "aufbauend / wachsend",
-    fit:        "geordnet / stabil",
-    fin:        "abgeschlossen / neutral",
-    rdy:        "bereit / offen"
-};
+function CONT_FUEHRUNG(risk){
+    return risk >= 80 ? "versiegeln"
+         : risk >= 60 ? "dämpfen"
+         : risk >= 40 ? "leiten"
+         : "frei fließen lassen";
+}
