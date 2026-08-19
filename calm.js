@@ -1,14 +1,12 @@
-// calm.js — ENDRAUM · RUHEMODUL
-// Der Raum tut nichts. Er beruhigt nur.
+// calm.js — FINALER ABSCHLUSSRAUM
+// Keine Ausführung. Nur Ruhe.
 
 export function CALM(){
-
     return {
         state: "ruhig",
-        active: false,
-        sealed: true,
+        frozen: true,
         observe: true,
         execute: false,
-        message: "Endrunde abgeschlossen. System ist ruhig."
+        message: "System finalisiert. Endraum aktiv."
     };
 }
