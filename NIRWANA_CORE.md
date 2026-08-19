@@ -1,25 +1,10 @@
-🏠 Ort (Home):
-/WRAIGHT/NIRWANA/
-
+📁 Dateiname: NIRWANA_CORE.md
+🏠 Ort: /WRAIGHT/NIRWANA/
 📄 Inhalt:
-Definition: Neutralanalyse
+Neutralanalyse
 
-Drift‑Erkennung
+Ghost / Miss / Error‑Erkennung
 
-Fehler‑Erkennung
+Risiko‑Matrix
 
-FremdPulse‑Erkennung
-
-Ghost‑Erkennung
-
-Risiko‑Matrix (3×3)
-
-Zeichen: N1 / N2 / N3
-
-Risiko‑%: 0–100
-
-Grad‑°: 0–90
-
-Übergabe‑Mechanismus
-
-Buchbar / Abwählbar / Wählbar
+Übergabe an Contínium
