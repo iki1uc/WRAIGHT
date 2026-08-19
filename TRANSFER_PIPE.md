@@ -1,6 +1,5 @@
-🏠 Ort (Home):
-/WRAIGHT/PIPE/
-
+📁 Dateiname: TRANSFER_PIPE.md
+🏠 Ort: /WRAIGHT/PIPE/
 📄 Inhalt:
 Nirwana → Contínium
 
@@ -10,6 +9,4 @@ Contínium → ∞
 
 Risiko → RNM
 
-RNM → Modul‑Start
-
-Buchbar / Abwählbar / Wählbar
+RNM → Start
