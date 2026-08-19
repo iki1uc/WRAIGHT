@@ -1,6 +1,10 @@
-function NIS_AURA(sense, drift){
-    const risk = NIS_RISK(sense, drift);
-    return risk < 20 ? "grün"
-         : risk < 60 ? "gelb"
-         : "rot";
-}
+const INTENT_MAP = {
+    ghost:      "versteckt / ungebunden",
+    error:      "zerstörerisch / chaotisch",
+    miss:       "fragmentiert / suchend",
+    help:       "korrigierend / reparierend",
+    bioldung:   "aufbauend / wachsend",
+    fit:        "geordnet / stabil",
+    fin:        "abgeschlossen / neutral",
+    rdy:        "bereit / offen"
+};
