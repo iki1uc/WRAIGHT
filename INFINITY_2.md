@@ -1,21 +1,12 @@
-🏠 Ort (Home):
-/WRAIGHT/INFINITY/
-
+📁 Dateiname: INFINITY_2.md
+🏠 Ort: /WRAIGHT/INFINITY/
 📄 Inhalt:
 Formel 2.0
 
-ID × RE × PQ × Ordnung
+Reinheit / Chaos / Drift / Ordnung
 
-Fehler × Drift × FremdPulse × Chaos
+7sense‑Einfluss
 
-Risiko‑Matrix (3×3)
-
-Zeichen: ∞1 / ∞2 / ∞3
-
-Risiko‑%: 0–100
-
-Grad‑°: 0–90
+Risiko‑Matrix
 
 Übergabe‑Mechanismus
-
-Buchbar / Abwählbar / Wählbar
